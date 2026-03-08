@@ -31,6 +31,10 @@ To learn the software, we recommend the [Odoo eLearning](https://www.odoo.com/sl
 or [Scale-up, the business game](https://www.odoo.com/page/scale-up-business-game).
 Developers can start with [the developer tutorials](https://www.odoo.com/documentation/master/developer/howtos.html).
 
+## Branching Strategy
+
+This repository uses a version-based branching model with one long-lived branch per Odoo release (e.g., `17.0`, `18.0`, `19.0`) and a `master` branch for the next upcoming release. See [BRANCHING_STRATEGY.md](BRANCHING_STRATEGY.md) for the full overview.
+
 ## Security
 
 If you believe you have found a security issue, check our [Responsible Disclosure page](https://www.odoo.com/security-report)
